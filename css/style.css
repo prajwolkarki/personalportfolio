@@ -31,7 +31,7 @@ nav{
 }
 .logo{
     width: 140px;
-    border-radius: 10px;
+
     
 }
 nav ul li{
@@ -338,7 +338,7 @@ border-radius: 15px;
   /* css for small screening */
    @media only screen and (max-width: 600px){
     #header{
-      background-image: url('/images/phone-background.png');
+      background-image: url('./images/phone-background.png');
 
     }
     .header-text{
@@ -372,7 +372,7 @@ border-radius: 15px;
     nav ul .fas{
       position: absolute;
       top: 25px;
-      left: 30px;
+      left: 50px;
       cursor: pointer;
     }
     .sub-title{
