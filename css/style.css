@@ -24,6 +24,9 @@ html{
 .container{
     padding: 10px 10%;
 }
+.container nav h1 span{
+    color: #ff004f;
+}
 
 nav{
     display: flex;
